@@ -109,7 +109,6 @@ response.status_code
 
 - Extracting HTML tags containing the topic title.
 
-![Screenshot%202023-10-17%20142734.png](Screenshot%202023-10-17%20142734.png)
 
 
 ```python
@@ -124,7 +123,6 @@ def get_topic_title(soup):
 
 - Extracting HTML tags containing topic description.
 
-![Screenshot%202023-10-17%20142812.png](Screenshot%202023-10-17%20142812.png)
 
 
 ```python
@@ -139,7 +137,6 @@ def get_topic_descriptions(soup):
 
 - Extracting HTML tags containing topic URLs.
 
-![Screenshot%202023-10-17%20142845.png](Screenshot%202023-10-17%20142845.png)
 
 
 ```python
@@ -215,7 +212,6 @@ def scrape_topics():
 
 - Extracting HTML tags containing the username of the repository's owner.
 
-![Screenshot%202023-10-17%20142923.png](Screenshot%202023-10-17%20142923.png)
 
 
 ```python
@@ -243,7 +239,6 @@ def get_repo_names(soup):
 
 - Extracting HTML tags containing stars count.
 
-![Screenshot%202023-10-17%20143033.png](Screenshot%202023-10-17%20143033.png)
 
 
 ```python
@@ -258,7 +253,6 @@ def get_repo_stars(soup):
 
 - Extracting HTML tags containing information about the repository's URL. We get the repository URL by accessing the child element of the tags extacted to collect the username of the repository's owner.
 
-![Screenshot%202023-10-17%20142923.png](Screenshot%202023-10-17%20142923.png)
 
 
 ```python
