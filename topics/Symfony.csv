@@ -1,5 +1,5 @@
 Username,Repository,Stars,Repo URL
-symfony,symfony,28.7k,https://github.com/symfony/symfony
+symfony,symfony,28.8k,https://github.com/symfony/symfony
 getgrav,grav,14.1k,https://github.com/getgrav/grav
 symfony,console,9.6k,https://github.com/symfony/console
 wallabag,wallabag,9k,https://github.com/wallabag/wallabag
@@ -9,8 +9,8 @@ symfony,finder,8.3k,https://github.com/symfony/finder
 api-platform,api-platform,8.1k,https://github.com/api-platform/api-platform
 symfony,http-kernel,8k,https://github.com/symfony/http-kernel
 symfony,polyfill-mbstring,7.7k,https://github.com/symfony/polyfill-mbstring
-symfony,routing,7.5k,https://github.com/symfony/routing
 Sylius,Sylius,7.5k,https://github.com/Sylius/Sylius
+symfony,routing,7.5k,https://github.com/symfony/routing
 symfony,css-selector,7.3k,https://github.com/symfony/css-selector
 symfony,process,7.3k,https://github.com/symfony/process
 symfony,debug,7.3k,https://github.com/symfony/debug
@@ -34,8 +34,8 @@ symfony,contracts,3.7k,https://github.com/symfony/contracts
 symfony,dotenv,3.7k,https://github.com/symfony/dotenv
 silexphp,Silex,3.6k,https://github.com/silexphp/Silex
 laravel-zero,laravel-zero,3.4k,https://github.com/laravel-zero/laravel-zero
-sensiolabs,SensioFrameworkExtraBundle,3.4k,https://github.com/sensiolabs/SensioFrameworkExtraBundle
 symfony,framework-bundle,3.4k,https://github.com/symfony/framework-bundle
+sensiolabs,SensioFrameworkExtraBundle,3.4k,https://github.com/sensiolabs/SensioFrameworkExtraBundle
 FriendsOfSymfony,FOSUserBundle,3.3k,https://github.com/FriendsOfSymfony/FOSUserBundle
 symfony,polyfill-php70,3.2k,https://github.com/symfony/polyfill-php70
 symfony,event-dispatcher-contracts,3.2k,https://github.com/symfony/event-dispatcher-contracts
@@ -43,8 +43,8 @@ symfony,doctrine-bridge,3.1k,https://github.com/symfony/doctrine-bridge
 symfony,options-resolver,3.1k,https://github.com/symfony/options-resolver
 symfony,asset,3k,https://github.com/symfony/asset
 nicoverbruggen,phpmon,2.9k,https://github.com/nicoverbruggen/phpmon
-symfony,browser-kit,2.9k,https://github.com/symfony/browser-kit
 Volmarg,personal-management-system,2.9k,https://github.com/Volmarg/personal-management-system
+symfony,browser-kit,2.9k,https://github.com/symfony/browser-kit
 cocur,slugify,2.8k,https://github.com/cocur/slugify
 symfony,monolog-bundle,2.8k,https://github.com/symfony/monolog-bundle
 symfony,panther,2.8k,https://github.com/symfony/panther
@@ -57,23 +57,23 @@ symfony,property-access,2.7k,https://github.com/symfony/property-access
 symfony,form,2.7k,https://github.com/symfony/form
 symfony,mime,2.6k,https://github.com/symfony/mime
 symfony,intl,2.6k,https://github.com/symfony/intl
-symfony,polyfill-intl-icu,2.5k,https://github.com/symfony/polyfill-intl-icu
 symfony,validator,2.5k,https://github.com/symfony/validator
+symfony,polyfill-intl-icu,2.5k,https://github.com/symfony/polyfill-intl-icu
 symfony,monolog-bridge,2.5k,https://github.com/symfony/monolog-bridge
 symfony,polyfill,2.5k,https://github.com/symfony/polyfill
 nelmio,alice,2.5k,https://github.com/nelmio/alice
 lexik,LexikJWTAuthenticationBundle,2.4k,https://github.com/lexik/LexikJWTAuthenticationBundle
+kimai,kimai,2.4k,https://github.com/kimai/kimai
 symfony,twig-bridge,2.4k,https://github.com/symfony/twig-bridge
 symfony,twig-bundle,2.4k,https://github.com/symfony/twig-bundle
 symfony,service-contracts,2.4k,https://github.com/symfony/service-contracts
 symfony,error-handler,2.4k,https://github.com/symfony/error-handler
 symfony,translation-contracts,2.4k,https://github.com/symfony/translation-contracts
-kimai,kimai,2.4k,https://github.com/kimai/kimai
 symfony,phpunit-bridge,2.4k,https://github.com/symfony/phpunit-bridge
 doctrine,DoctrineFixturesBundle,2.4k,https://github.com/doctrine/DoctrineFixturesBundle
-symfony,polyfill-php73,2.4k,https://github.com/symfony/polyfill-php73
+shopware,shopware,2.4k,https://github.com/shopware/shopware
 symfony,security-bundle,2.4k,https://github.com/symfony/security-bundle
-shopware,platform,2.4k,https://github.com/shopware/platform
+symfony,polyfill-php73,2.4k,https://github.com/symfony/polyfill-php73
 symfony,serializer,2.4k,https://github.com/symfony/serializer
 symfony,demo,2.4k,https://github.com/symfony/demo
 drush-ops,drush,2.3k,https://github.com/drush-ops/drush

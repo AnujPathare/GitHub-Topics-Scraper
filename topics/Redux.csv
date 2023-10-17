@@ -1,16 +1,16 @@
 Username,Repository,Stars,Repo URL
 reduxjs,redux,60k,https://github.com/reduxjs/redux
-Asabeneh,30-Days-Of-JavaScript,38.7k,https://github.com/Asabeneh/30-Days-Of-JavaScript
-pmndrs,zustand,35.7k,https://github.com/pmndrs/zustand
-sudheerj,reactjs-interview-questions,32.2k,https://github.com/sudheerj/reactjs-interview-questions
+Asabeneh,30-Days-Of-JavaScript,38.8k,https://github.com/Asabeneh/30-Days-Of-JavaScript
+pmndrs,zustand,36k,https://github.com/pmndrs/zustand
+sudheerj,reactjs-interview-questions,32.3k,https://github.com/sudheerj/reactjs-interview-questions
 react-boilerplate,react-boilerplate,29.3k,https://github.com/react-boilerplate/react-boilerplate
 immerjs,immer,26k,https://github.com/immerjs/immer
 reduxjs,react-redux,23k,https://github.com/reduxjs/react-redux
-Asabeneh,30-Days-Of-React,22.9k,https://github.com/Asabeneh/30-Days-Of-React
+Asabeneh,30-Days-Of-React,23k,https://github.com/Asabeneh/30-Days-Of-React
 redux-saga,redux-saga,22.5k,https://github.com/redux-saga/redux-saga
 markerikson,react-redux-links,22.3k,https://github.com/markerikson/react-redux-links
 paularmstrong,normalizr,21k,https://github.com/paularmstrong/normalizr
-responsively-org,responsively-app,20.9k,https://github.com/responsively-org/responsively-app
+responsively-org,responsively-app,21k,https://github.com/responsively-org/responsively-app
 verekia,js-stack-from-scratch,20k,https://github.com/verekia/js-stack-from-scratch
 reduxjs,reselect,19k,https://github.com/reduxjs/reselect
 dvajs,dva,16.2k,https://github.com/dvajs/dva
@@ -32,7 +32,7 @@ GetStream,Winds,8.8k,https://github.com/GetStream/Winds
 brianegan,flutter_architecture_samples,8.5k,https://github.com/brianegan/flutter_architecture_samples
 blueedgetechno,win11React,8.5k,https://github.com/blueedgetechno/win11React
 rematch,rematch,8.4k,https://github.com/rematch/rematch
-chvin,react-tetris,7.8k,https://github.com/chvin/react-tetris
+chvin,react-tetris,7.9k,https://github.com/chvin/react-tetris
 ngrx,platform,7.7k,https://github.com/ngrx/platform
 ReSwift,ReSwift,7.5k,https://github.com/ReSwift/ReSwift
 alibaba,fish-redux,7.4k,https://github.com/alibaba/fish-redux
@@ -61,7 +61,7 @@ rekit,rekit,4.5k,https://github.com/rekit/rekit
 kdchang,reactjs101,4.2k,https://github.com/kdchang/reactjs101
 jamiebuilds,unstated-next,4.1k,https://github.com/jamiebuilds/unstated-next
 YauhenKavalchuk,interview-questions,4k,https://github.com/YauhenKavalchuk/interview-questions
-thecodingmachine,react-native-boilerplate,3.9k,https://github.com/thecodingmachine/react-native-boilerplate
+thecodingmachine,react-native-boilerplate,4k,https://github.com/thecodingmachine/react-native-boilerplate
 MetinSeylan,Vue-Socket.io,3.9k,https://github.com/MetinSeylan/Vue-Socket.io
 ngrx,store,3.9k,https://github.com/ngrx/store
 salesforce,akita,3.7k,https://github.com/salesforce/akita
@@ -72,8 +72,8 @@ attentiveness,reading,3.4k,https://github.com/attentiveness/reading
 React-Proto,react-proto,3.4k,https://github.com/React-Proto/react-proto
 MoonHighway,learning-react,3.4k,https://github.com/MoonHighway/learning-react
 plankanban,planka,3.2k,https://github.com/plankanban/planka
-redux-orm,redux-orm,3k,https://github.com/redux-orm/redux-orm
 Renovamen,playground-macos,3k,https://github.com/Renovamen/playground-macos
+redux-orm,redux-orm,3k,https://github.com/redux-orm/redux-orm
 diegohaz,arc,2.9k,https://github.com/diegohaz/arc
 rohan-paul,Awesome-JavaScript-Interviews,2.9k,https://github.com/rohan-paul/Awesome-JavaScript-Interviews
 developit,unistore,2.9k,https://github.com/developit/unistore
